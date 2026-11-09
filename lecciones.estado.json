@@ -1,0 +1,843 @@
+{
+  "schema_version": 1,
+  "historial": {
+    "creativo": {
+      "sum": 983.236361,
+      "count": 24
+    },
+    "tecnico": {
+      "sum": 957.0864180000001,
+      "count": 18
+    },
+    "entrega_rapida": {
+      "sum": 729.171801,
+      "count": 18
+    }
+  },
+  "evidencias": {
+    "lec-5fa7b4b52c485b7a": [
+      {
+        "lesson_id": "lec-5fa7b4b52c485b7a",
+        "n_cumplen": 3,
+        "n_incumplen": 3,
+        "media_cumplen": 67.49048966666668,
+        "media_incumplen": 49.16686333333333,
+        "diferencia": 18.323626333333344,
+        "resultados_cumplen": [
+          "demo-r2-e2",
+          "demo-r2-e3",
+          "demo-r2-e5"
+        ],
+        "resultados_incumplen": [
+          "demo-r2-e0",
+          "demo-r2-e1",
+          "demo-r2-e4"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      },
+      {
+        "lesson_id": "lec-5fa7b4b52c485b7a",
+        "n_cumplen": 7,
+        "n_incumplen": 5,
+        "media_cumplen": 61.379898857142855,
+        "media_incumplen": 46.5815396,
+        "diferencia": 14.798359257142856,
+        "resultados_cumplen": [
+          "demo-r2-e2",
+          "demo-r2-e3",
+          "demo-r2-e5",
+          "demo-r5-e0",
+          "demo-r5-e2",
+          "demo-r5-e4",
+          "demo-r5-e5"
+        ],
+        "resultados_incumplen": [
+          "demo-r2-e0",
+          "demo-r2-e1",
+          "demo-r2-e4",
+          "demo-r5-e1",
+          "demo-r5-e3"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      },
+      {
+        "lesson_id": "lec-5fa7b4b52c485b7a",
+        "n_cumplen": 11,
+        "n_incumplen": 7,
+        "media_cumplen": 57.615967818181815,
+        "media_incumplen": 46.18725314285714,
+        "diferencia": 11.428714675324677,
+        "resultados_cumplen": [
+          "demo-r2-e2",
+          "demo-r2-e3",
+          "demo-r2-e5",
+          "demo-r5-e0",
+          "demo-r5-e2",
+          "demo-r5-e4",
+          "demo-r5-e5",
+          "demo-r8-e1",
+          "demo-r8-e2",
+          "demo-r8-e3",
+          "demo-r8-e4"
+        ],
+        "resultados_incumplen": [
+          "demo-r2-e0",
+          "demo-r2-e1",
+          "demo-r2-e4",
+          "demo-r5-e1",
+          "demo-r5-e3",
+          "demo-r8-e0",
+          "demo-r8-e5"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      }
+    ],
+    "lec-be5d10bbd9a506c4": [
+      {
+        "lesson_id": "lec-be5d10bbd9a506c4",
+        "n_cumplen": 3,
+        "n_incumplen": 3,
+        "media_cumplen": 65.46101466666666,
+        "media_incumplen": 51.19633833333334,
+        "diferencia": 14.26467633333332,
+        "resultados_cumplen": [
+          "demo-r2-e0",
+          "demo-r2-e3",
+          "demo-r2-e5"
+        ],
+        "resultados_incumplen": [
+          "demo-r2-e1",
+          "demo-r2-e2",
+          "demo-r2-e4"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      },
+      {
+        "lesson_id": "lec-be5d10bbd9a506c4",
+        "n_cumplen": 7,
+        "n_incumplen": 11,
+        "media_cumplen": 61.986321,
+        "media_incumplen": 47.56201554545455,
+        "diferencia": 14.424305454545447,
+        "resultados_cumplen": [
+          "demo-r2-e0",
+          "demo-r2-e3",
+          "demo-r2-e5",
+          "demo-r5-e0",
+          "demo-r5-e3",
+          "demo-r8-e0",
+          "demo-r8-e3"
+        ],
+        "resultados_incumplen": [
+          "demo-r2-e1",
+          "demo-r2-e2",
+          "demo-r2-e4",
+          "demo-r5-e1",
+          "demo-r5-e2",
+          "demo-r5-e4",
+          "demo-r5-e5",
+          "demo-r8-e1",
+          "demo-r8-e2",
+          "demo-r8-e4",
+          "demo-r8-e5"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      }
+    ],
+    "lec-1c18457ddeed9371": [
+      {
+        "lesson_id": "lec-1c18457ddeed9371",
+        "n_cumplen": 3,
+        "n_incumplen": 3,
+        "media_cumplen": 65.46101466666666,
+        "media_incumplen": 51.19633833333334,
+        "diferencia": 14.26467633333332,
+        "resultados_cumplen": [
+          "demo-r2-e0",
+          "demo-r2-e3",
+          "demo-r2-e5"
+        ],
+        "resultados_incumplen": [
+          "demo-r2-e1",
+          "demo-r2-e2",
+          "demo-r2-e4"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      }
+    ],
+    "lec-3fff35962b6e1cda": [
+      {
+        "lesson_id": "lec-3fff35962b6e1cda",
+        "n_cumplen": 3,
+        "n_incumplen": 3,
+        "media_cumplen": 45.431515,
+        "media_incumplen": 29.103232666666667,
+        "diferencia": 16.32828233333333,
+        "resultados_cumplen": [
+          "demo-r3-e1",
+          "demo-r3-e3",
+          "demo-r3-e4"
+        ],
+        "resultados_incumplen": [
+          "demo-r3-e0",
+          "demo-r3-e2",
+          "demo-r3-e5"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      },
+      {
+        "lesson_id": "lec-3fff35962b6e1cda",
+        "n_cumplen": 7,
+        "n_incumplen": 5,
+        "media_cumplen": 44.99689142857143,
+        "media_incumplen": 35.233349999999994,
+        "diferencia": 9.763541428571436,
+        "resultados_cumplen": [
+          "demo-r3-e1",
+          "demo-r3-e3",
+          "demo-r3-e4",
+          "demo-r6-e0",
+          "demo-r6-e2",
+          "demo-r6-e4",
+          "demo-r6-e5"
+        ],
+        "resultados_incumplen": [
+          "demo-r3-e0",
+          "demo-r3-e2",
+          "demo-r3-e5",
+          "demo-r6-e1",
+          "demo-r6-e3"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      },
+      {
+        "lesson_id": "lec-3fff35962b6e1cda",
+        "n_cumplen": 12,
+        "n_incumplen": 6,
+        "media_cumplen": 43.96919166666667,
+        "media_incumplen": 33.590250166666664,
+        "diferencia": 10.378941500000003,
+        "resultados_cumplen": [
+          "demo-r3-e1",
+          "demo-r3-e3",
+          "demo-r3-e4",
+          "demo-r6-e0",
+          "demo-r6-e2",
+          "demo-r6-e4",
+          "demo-r6-e5",
+          "demo-r9-e0",
+          "demo-r9-e1",
+          "demo-r9-e3",
+          "demo-r9-e4",
+          "demo-r9-e5"
+        ],
+        "resultados_incumplen": [
+          "demo-r3-e0",
+          "demo-r3-e2",
+          "demo-r3-e5",
+          "demo-r6-e1",
+          "demo-r6-e3",
+          "demo-r9-e2"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      }
+    ],
+    "lec-524ca4c7c1e47a3f": [
+      {
+        "lesson_id": "lec-524ca4c7c1e47a3f",
+        "n_cumplen": 7,
+        "n_incumplen": 5,
+        "media_cumplen": 41.681098000000006,
+        "media_incumplen": 33.441218,
+        "diferencia": 8.239880000000007,
+        "resultados_cumplen": [
+          "demo-r1-e2",
+          "demo-r1-e5",
+          "demo-r4-e1",
+          "demo-r4-e2",
+          "demo-r4-e3",
+          "demo-r4-e4",
+          "demo-r4-e5"
+        ],
+        "resultados_incumplen": [
+          "demo-r1-e0",
+          "demo-r1-e1",
+          "demo-r1-e3",
+          "demo-r1-e4",
+          "demo-r4-e0"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      }
+    ],
+    "lec-260ca97969212294": [
+      {
+        "lesson_id": "lec-260ca97969212294",
+        "n_cumplen": 4,
+        "n_incumplen": 8,
+        "media_cumplen": 61.15512125,
+        "media_incumplen": 52.243313125,
+        "diferencia": 8.911808125,
+        "resultados_cumplen": [
+          "demo-r2-e3",
+          "demo-r5-e1",
+          "demo-r5-e2",
+          "demo-r5-e4"
+        ],
+        "resultados_incumplen": [
+          "demo-r2-e0",
+          "demo-r2-e1",
+          "demo-r2-e2",
+          "demo-r2-e4",
+          "demo-r2-e5",
+          "demo-r5-e0",
+          "demo-r5-e3",
+          "demo-r5-e5"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      }
+    ],
+    "lec-fe9b225c95b7ddb8": [
+      {
+        "lesson_id": "lec-fe9b225c95b7ddb8",
+        "n_cumplen": 8,
+        "n_incumplen": 4,
+        "media_cumplen": 59.78151575,
+        "media_incumplen": 46.078716,
+        "diferencia": 13.702799749999997,
+        "resultados_cumplen": [
+          "demo-r2-e1",
+          "demo-r2-e2",
+          "demo-r2-e3",
+          "demo-r2-e4",
+          "demo-r2-e5",
+          "demo-r5-e1",
+          "demo-r5-e2",
+          "demo-r5-e4"
+        ],
+        "resultados_incumplen": [
+          "demo-r2-e0",
+          "demo-r5-e0",
+          "demo-r5-e3",
+          "demo-r5-e5"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      },
+      {
+        "lesson_id": "lec-fe9b225c95b7ddb8",
+        "n_cumplen": 12,
+        "n_incumplen": 6,
+        "media_cumplen": 56.864039999999996,
+        "media_incumplen": 45.786323,
+        "diferencia": 11.077716999999993,
+        "resultados_cumplen": [
+          "demo-r2-e1",
+          "demo-r2-e2",
+          "demo-r2-e3",
+          "demo-r2-e4",
+          "demo-r2-e5",
+          "demo-r5-e1",
+          "demo-r5-e2",
+          "demo-r5-e4",
+          "demo-r8-e1",
+          "demo-r8-e2",
+          "demo-r8-e3",
+          "demo-r8-e4"
+        ],
+        "resultados_incumplen": [
+          "demo-r2-e0",
+          "demo-r5-e0",
+          "demo-r5-e3",
+          "demo-r5-e5",
+          "demo-r8-e0",
+          "demo-r8-e5"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      }
+    ],
+    "lec-5a5bcaf8966b9306": [
+      {
+        "lesson_id": "lec-5a5bcaf8966b9306",
+        "n_cumplen": 8,
+        "n_incumplen": 4,
+        "media_cumplen": 45.470046124999996,
+        "media_incumplen": 31.84615525,
+        "diferencia": 13.623890874999997,
+        "resultados_cumplen": [
+          "demo-r3-e1",
+          "demo-r3-e2",
+          "demo-r3-e3",
+          "demo-r3-e4",
+          "demo-r6-e0",
+          "demo-r6-e1",
+          "demo-r6-e3",
+          "demo-r6-e5"
+        ],
+        "resultados_incumplen": [
+          "demo-r3-e0",
+          "demo-r3-e5",
+          "demo-r6-e2",
+          "demo-r6-e4"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      },
+      {
+        "lesson_id": "lec-5a5bcaf8966b9306",
+        "n_cumplen": 13,
+        "n_incumplen": 5,
+        "media_cumplen": 44.33941761538461,
+        "media_incumplen": 30.551874399999996,
+        "diferencia": 13.787543215384616,
+        "resultados_cumplen": [
+          "demo-r3-e1",
+          "demo-r3-e2",
+          "demo-r3-e3",
+          "demo-r3-e4",
+          "demo-r6-e0",
+          "demo-r6-e1",
+          "demo-r6-e3",
+          "demo-r6-e5",
+          "demo-r9-e0",
+          "demo-r9-e1",
+          "demo-r9-e3",
+          "demo-r9-e4",
+          "demo-r9-e5"
+        ],
+        "resultados_incumplen": [
+          "demo-r3-e0",
+          "demo-r3-e5",
+          "demo-r6-e2",
+          "demo-r6-e4",
+          "demo-r9-e2"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      }
+    ],
+    "lec-fb731322a6958e08": [
+      {
+        "lesson_id": "lec-fb731322a6958e08",
+        "n_cumplen": 7,
+        "n_incumplen": 5,
+        "media_cumplen": 45.72204971428572,
+        "media_incumplen": 34.2181284,
+        "diferencia": 11.50392131428572,
+        "resultados_cumplen": [
+          "demo-r3-e0",
+          "demo-r3-e3",
+          "demo-r3-e4",
+          "demo-r3-e5",
+          "demo-r6-e0",
+          "demo-r6-e1",
+          "demo-r6-e2"
+        ],
+        "resultados_incumplen": [
+          "demo-r3-e1",
+          "demo-r3-e2",
+          "demo-r6-e3",
+          "demo-r6-e4",
+          "demo-r6-e5"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      },
+      {
+        "lesson_id": "lec-fb731322a6958e08",
+        "n_cumplen": 11,
+        "n_incumplen": 7,
+        "media_cumplen": 45.71253681818182,
+        "media_incumplen": 32.33341371428571,
+        "diferencia": 13.379123103896106,
+        "resultados_cumplen": [
+          "demo-r3-e0",
+          "demo-r3-e3",
+          "demo-r3-e4",
+          "demo-r3-e5",
+          "demo-r6-e0",
+          "demo-r6-e1",
+          "demo-r6-e2",
+          "demo-r9-e1",
+          "demo-r9-e2",
+          "demo-r9-e3",
+          "demo-r9-e4"
+        ],
+        "resultados_incumplen": [
+          "demo-r3-e1",
+          "demo-r3-e2",
+          "demo-r6-e3",
+          "demo-r6-e4",
+          "demo-r6-e5",
+          "demo-r9-e0",
+          "demo-r9-e5"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      }
+    ],
+    "lec-7c17b2ff7aba76bd": [
+      {
+        "lesson_id": "lec-7c17b2ff7aba76bd",
+        "n_cumplen": 13,
+        "n_incumplen": 5,
+        "media_cumplen": 42.365329307692306,
+        "media_incumplen": 29.3654224,
+        "diferencia": 12.999906907692306,
+        "resultados_cumplen": [
+          "demo-r1-e0",
+          "demo-r1-e1",
+          "demo-r1-e2",
+          "demo-r1-e4",
+          "demo-r1-e5",
+          "demo-r4-e0",
+          "demo-r4-e1",
+          "demo-r4-e2",
+          "demo-r4-e4",
+          "demo-r7-e0",
+          "demo-r7-e1",
+          "demo-r7-e2",
+          "demo-r7-e4"
+        ],
+        "resultados_incumplen": [
+          "demo-r1-e3",
+          "demo-r4-e3",
+          "demo-r4-e5",
+          "demo-r7-e3",
+          "demo-r7-e5"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      },
+      {
+        "lesson_id": "lec-7c17b2ff7aba76bd",
+        "n_cumplen": 16,
+        "n_incumplen": 8,
+        "media_cumplen": 45.677139374999996,
+        "media_incumplen": 31.550266375,
+        "diferencia": 14.126872999999996,
+        "resultados_cumplen": [
+          "demo-r1-e0",
+          "demo-r1-e1",
+          "demo-r1-e2",
+          "demo-r1-e4",
+          "demo-r1-e5",
+          "demo-r4-e0",
+          "demo-r4-e1",
+          "demo-r4-e2",
+          "demo-r4-e4",
+          "demo-r7-e0",
+          "demo-r7-e1",
+          "demo-r7-e2",
+          "demo-r7-e4",
+          "demo-r10-e2",
+          "demo-r10-e3",
+          "demo-r10-e5"
+        ],
+        "resultados_incumplen": [
+          "demo-r1-e3",
+          "demo-r4-e3",
+          "demo-r4-e5",
+          "demo-r7-e3",
+          "demo-r7-e5",
+          "demo-r10-e0",
+          "demo-r10-e1",
+          "demo-r10-e4"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      }
+    ],
+    "lec-93eb95c9790a7bad": [
+      {
+        "lesson_id": "lec-93eb95c9790a7bad",
+        "n_cumplen": 3,
+        "n_incumplen": 15,
+        "media_cumplen": 60.491174666666666,
+        "media_incumplen": 34.406857933333335,
+        "diferencia": 26.08431673333333,
+        "resultados_cumplen": [
+          "demo-r1-e0",
+          "demo-r1-e2",
+          "demo-r7-e2"
+        ],
+        "resultados_incumplen": [
+          "demo-r1-e1",
+          "demo-r1-e3",
+          "demo-r1-e4",
+          "demo-r1-e5",
+          "demo-r4-e0",
+          "demo-r4-e1",
+          "demo-r4-e2",
+          "demo-r4-e3",
+          "demo-r4-e4",
+          "demo-r4-e5",
+          "demo-r7-e0",
+          "demo-r7-e1",
+          "demo-r7-e3",
+          "demo-r7-e4",
+          "demo-r7-e5"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      },
+      {
+        "lesson_id": "lec-93eb95c9790a7bad",
+        "n_cumplen": 5,
+        "n_incumplen": 19,
+        "media_cumplen": 63.59486879999999,
+        "media_incumplen": 35.013790368421056,
+        "diferencia": 28.581078431578938,
+        "resultados_cumplen": [
+          "demo-r1-e0",
+          "demo-r1-e2",
+          "demo-r7-e2",
+          "demo-r10-e3",
+          "demo-r10-e5"
+        ],
+        "resultados_incumplen": [
+          "demo-r1-e1",
+          "demo-r1-e3",
+          "demo-r1-e4",
+          "demo-r1-e5",
+          "demo-r4-e0",
+          "demo-r4-e1",
+          "demo-r4-e2",
+          "demo-r4-e3",
+          "demo-r4-e4",
+          "demo-r4-e5",
+          "demo-r7-e0",
+          "demo-r7-e1",
+          "demo-r7-e3",
+          "demo-r7-e4",
+          "demo-r7-e5",
+          "demo-r10-e0",
+          "demo-r10-e1",
+          "demo-r10-e2",
+          "demo-r10-e4"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      }
+    ],
+    "lec-8be82216b2c311da": [
+      {
+        "lesson_id": "lec-8be82216b2c311da",
+        "n_cumplen": 9,
+        "n_incumplen": 9,
+        "media_cumplen": 44.38854777777778,
+        "media_incumplen": 33.11994033333333,
+        "diferencia": 11.268607444444449,
+        "resultados_cumplen": [
+          "demo-r1-e3",
+          "demo-r1-e4",
+          "demo-r1-e5",
+          "demo-r4-e1",
+          "demo-r4-e3",
+          "demo-r4-e4",
+          "demo-r7-e1",
+          "demo-r7-e2",
+          "demo-r7-e4"
+        ],
+        "resultados_incumplen": [
+          "demo-r1-e0",
+          "demo-r1-e1",
+          "demo-r1-e2",
+          "demo-r4-e0",
+          "demo-r4-e2",
+          "demo-r4-e5",
+          "demo-r7-e0",
+          "demo-r7-e3",
+          "demo-r7-e5"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      },
+      {
+        "lesson_id": "lec-8be82216b2c311da",
+        "n_cumplen": 14,
+        "n_incumplen": 10,
+        "media_cumplen": 47.386734142857144,
+        "media_incumplen": 31.982208300000003,
+        "diferencia": 15.40452584285714,
+        "resultados_cumplen": [
+          "demo-r1-e3",
+          "demo-r1-e4",
+          "demo-r1-e5",
+          "demo-r4-e1",
+          "demo-r4-e3",
+          "demo-r4-e4",
+          "demo-r7-e1",
+          "demo-r7-e2",
+          "demo-r7-e4",
+          "demo-r10-e0",
+          "demo-r10-e1",
+          "demo-r10-e2",
+          "demo-r10-e3",
+          "demo-r10-e5"
+        ],
+        "resultados_incumplen": [
+          "demo-r1-e0",
+          "demo-r1-e1",
+          "demo-r1-e2",
+          "demo-r4-e0",
+          "demo-r4-e2",
+          "demo-r4-e5",
+          "demo-r7-e0",
+          "demo-r7-e3",
+          "demo-r7-e5",
+          "demo-r10-e4"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      }
+    ],
+    "lec-49eb7d132a4b4583": [
+      {
+        "lesson_id": "lec-49eb7d132a4b4583",
+        "n_cumplen": 7,
+        "n_incumplen": 11,
+        "media_cumplen": 59.29659257142857,
+        "media_incumplen": 49.27366090909091,
+        "diferencia": 10.022931662337662,
+        "resultados_cumplen": [
+          "demo-r2-e2",
+          "demo-r2-e4",
+          "demo-r5-e1",
+          "demo-r5-e2",
+          "demo-r5-e4",
+          "demo-r8-e1",
+          "demo-r8-e3"
+        ],
+        "resultados_incumplen": [
+          "demo-r2-e0",
+          "demo-r2-e1",
+          "demo-r2-e3",
+          "demo-r2-e5",
+          "demo-r5-e0",
+          "demo-r5-e3",
+          "demo-r5-e5",
+          "demo-r8-e0",
+          "demo-r8-e2",
+          "demo-r8-e4",
+          "demo-r8-e5"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      }
+    ],
+    "lec-4031904266151e98": [
+      {
+        "lesson_id": "lec-4031904266151e98",
+        "n_cumplen": 14,
+        "n_incumplen": 4,
+        "media_cumplen": 57.157722,
+        "media_incumplen": 39.2195775,
+        "diferencia": 17.9381445,
+        "resultados_cumplen": [
+          "demo-r2-e0",
+          "demo-r2-e2",
+          "demo-r2-e3",
+          "demo-r2-e4",
+          "demo-r2-e5",
+          "demo-r5-e0",
+          "demo-r5-e2",
+          "demo-r5-e3",
+          "demo-r5-e5",
+          "demo-r8-e0",
+          "demo-r8-e1",
+          "demo-r8-e2",
+          "demo-r8-e3",
+          "demo-r8-e5"
+        ],
+        "resultados_incumplen": [
+          "demo-r2-e1",
+          "demo-r5-e1",
+          "demo-r5-e4",
+          "demo-r8-e4"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      }
+    ],
+    "lec-80839ecfeb79e07b": [
+      {
+        "lesson_id": "lec-80839ecfeb79e07b",
+        "n_cumplen": 9,
+        "n_incumplen": 9,
+        "media_cumplen": 58.51232366666667,
+        "media_incumplen": 47.83061166666667,
+        "diferencia": 10.681711999999997,
+        "resultados_cumplen": [
+          "demo-r2-e0",
+          "demo-r2-e3",
+          "demo-r2-e4",
+          "demo-r5-e3",
+          "demo-r5-e4",
+          "demo-r5-e5",
+          "demo-r8-e1",
+          "demo-r8-e2",
+          "demo-r8-e3"
+        ],
+        "resultados_incumplen": [
+          "demo-r2-e1",
+          "demo-r2-e2",
+          "demo-r2-e5",
+          "demo-r5-e0",
+          "demo-r5-e1",
+          "demo-r5-e2",
+          "demo-r8-e0",
+          "demo-r8-e4",
+          "demo-r8-e5"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      }
+    ],
+    "lec-6632ac487c90d451": [
+      {
+        "lesson_id": "lec-6632ac487c90d451",
+        "n_cumplen": 3,
+        "n_incumplen": 15,
+        "media_cumplen": 54.34167866666667,
+        "media_incumplen": 37.74311766666666,
+        "diferencia": 16.598561000000004,
+        "resultados_cumplen": [
+          "demo-r3-e4",
+          "demo-r9-e1",
+          "demo-r9-e4"
+        ],
+        "resultados_incumplen": [
+          "demo-r3-e0",
+          "demo-r3-e1",
+          "demo-r3-e2",
+          "demo-r3-e3",
+          "demo-r3-e5",
+          "demo-r6-e0",
+          "demo-r6-e1",
+          "demo-r6-e2",
+          "demo-r6-e3",
+          "demo-r6-e4",
+          "demo-r6-e5",
+          "demo-r9-e0",
+          "demo-r9-e2",
+          "demo-r9-e3",
+          "demo-r9-e5"
+        ],
+        "retrospectivo": false,
+        "interpretacion": "Asociación sintética; no demuestra causalidad"
+      }
+    ]
+  }
+}

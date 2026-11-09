@@ -1,0 +1,757 @@
+{
+  "con_memoria": [
+    {
+      "ronda": 1,
+      "tipo": "creativo",
+      "score_promedio": 38.1651185,
+      "error_perfiles": 0.2315332675,
+      "lecciones": 0
+    },
+    {
+      "ronda": 2,
+      "tipo": "tecnico",
+      "score_promedio": 58.3286765,
+      "error_perfiles": 0.18079775774999998,
+      "lecciones": 3
+    },
+    {
+      "ronda": 3,
+      "tipo": "entrega_rapida",
+      "score_promedio": 37.26737383333333,
+      "error_perfiles": 0.15438037102499996,
+      "lecciones": 4
+    },
+    {
+      "ronda": 4,
+      "tipo": "creativo",
+      "score_promedio": 38.330510833333335,
+      "error_perfiles": 0.13215641757250005,
+      "lecciones": 5
+    },
+    {
+      "ronda": 5,
+      "tipo": "tecnico",
+      "score_promedio": 52.09915516666666,
+      "error_perfiles": 0.11676910202725006,
+      "lecciones": 7
+    },
+    {
+      "ronda": 6,
+      "tipo": "entrega_rapida",
+      "score_promedio": 44.5901245,
+      "error_perfiles": 0.1026802870620084,
+      "lecciones": 9
+    },
+    {
+      "ronda": 7,
+      "tipo": "creativo",
+      "score_promedio": 39.76710283333333,
+      "error_perfiles": 0.09218607673287087,
+      "lecciones": 12
+    },
+    {
+      "ronda": 8,
+      "tipo": "tecnico",
+      "score_promedio": 49.08657133333333,
+      "error_perfiles": 0.08762712277194734,
+      "lecciones": 15
+    },
+    {
+      "ronda": 9,
+      "tipo": "entrega_rapida",
+      "score_promedio": 39.671135166666666,
+      "error_perfiles": 0.09113596331617065,
+      "lecciones": 16
+    },
+    {
+      "ronda": 10,
+      "tipo": "creativo",
+      "score_promedio": 47.609994666666665,
+      "error_perfiles": 0.0866856479102256,
+      "lecciones": 16
+    }
+  ],
+  "sin_memoria": [
+    {
+      "ronda": 1,
+      "tipo": "creativo",
+      "score_promedio": 38.1651185,
+      "error_perfiles": 0.275,
+      "lecciones": 0
+    },
+    {
+      "ronda": 2,
+      "tipo": "tecnico",
+      "score_promedio": 58.3286765,
+      "error_perfiles": 0.275,
+      "lecciones": 0
+    },
+    {
+      "ronda": 3,
+      "tipo": "entrega_rapida",
+      "score_promedio": 37.26737383333333,
+      "error_perfiles": 0.275,
+      "lecciones": 0
+    },
+    {
+      "ronda": 4,
+      "tipo": "creativo",
+      "score_promedio": 38.330510833333335,
+      "error_perfiles": 0.275,
+      "lecciones": 0
+    },
+    {
+      "ronda": 5,
+      "tipo": "tecnico",
+      "score_promedio": 46.76582183333333,
+      "error_perfiles": 0.275,
+      "lecciones": 0
+    },
+    {
+      "ronda": 6,
+      "tipo": "entrega_rapida",
+      "score_promedio": 36.92345783333334,
+      "error_perfiles": 0.275,
+      "lecciones": 0
+    },
+    {
+      "ronda": 7,
+      "tipo": "creativo",
+      "score_promedio": 37.433769500000004,
+      "error_perfiles": 0.275,
+      "lecciones": 0
+    },
+    {
+      "ronda": 8,
+      "tipo": "tecnico",
+      "score_promedio": 46.753238,
+      "error_perfiles": 0.275,
+      "lecciones": 0
+    },
+    {
+      "ronda": 9,
+      "tipo": "entrega_rapida",
+      "score_promedio": 33.671135166666666,
+      "error_perfiles": 0.275,
+      "lecciones": 0
+    },
+    {
+      "ronda": 10,
+      "tipo": "creativo",
+      "score_promedio": 39.27666133333333,
+      "error_perfiles": 0.275,
+      "lecciones": 0
+    }
+  ],
+  "personas": [
+    {
+      "id": "p0001",
+      "nombre": "Persona sintética 001",
+      "declarado": {
+        "creatividad": 5,
+        "organizacion": 3,
+        "liderazgo": 1,
+        "extroversion": 2,
+        "cumplimiento": 4
+      },
+      "real": {
+        "creatividad": 5,
+        "organizacion": 3,
+        "liderazgo": 1,
+        "extroversion": 2,
+        "cumplimiento": 4
+      },
+      "estimado": {
+        "creatividad": 4.776041872356255,
+        "organizacion": 3.0830090924222064,
+        "liderazgo": 1.2083831162889531,
+        "extroversion": 1.8916684522981273,
+        "cumplimiento": 4.1117927854479195
+      }
+    },
+    {
+      "id": "p0002",
+      "nombre": "Persona sintética 002",
+      "declarado": {
+        "creatividad": 5,
+        "organizacion": 3,
+        "liderazgo": 2,
+        "extroversion": 2,
+        "cumplimiento": 3
+      },
+      "real": {
+        "creatividad": 3,
+        "organizacion": 3,
+        "liderazgo": 2,
+        "extroversion": 2,
+        "cumplimiento": 3
+      },
+      "estimado": {
+        "creatividad": 3.1913877942122224,
+        "organizacion": 2.8060096106776875,
+        "liderazgo": 2.027217626297173,
+        "extroversion": 1.9988234483102616,
+        "cumplimiento": 3.083134680411187
+      }
+    },
+    {
+      "id": "p0003",
+      "nombre": "Persona sintética 003",
+      "declarado": {
+        "creatividad": 1,
+        "organizacion": 3,
+        "liderazgo": 3,
+        "extroversion": 5,
+        "cumplimiento": 3
+      },
+      "real": {
+        "creatividad": 1,
+        "organizacion": 3,
+        "liderazgo": 3,
+        "extroversion": 5,
+        "cumplimiento": 3
+      },
+      "estimado": {
+        "creatividad": 1.0204716212512,
+        "organizacion": 3.0885755529501235,
+        "liderazgo": 3.0844428501953853,
+        "extroversion": 4.81209878591036,
+        "cumplimiento": 3.171003654190565
+      }
+    },
+    {
+      "id": "p0004",
+      "nombre": "Persona sintética 004",
+      "declarado": {
+        "creatividad": 1,
+        "organizacion": 4,
+        "liderazgo": 5,
+        "extroversion": 1,
+        "cumplimiento": 4
+      },
+      "real": {
+        "creatividad": 1,
+        "organizacion": 4,
+        "liderazgo": 5,
+        "extroversion": 1,
+        "cumplimiento": 4
+      },
+      "estimado": {
+        "creatividad": 1.019384397246592,
+        "organizacion": 3.8680980997520757,
+        "liderazgo": 4.9285611059468,
+        "extroversion": 1.1140902976586577,
+        "cumplimiento": 3.9893035104997976
+      }
+    },
+    {
+      "id": "p0005",
+      "nombre": "Persona sintética 005",
+      "declarado": {
+        "creatividad": 1,
+        "organizacion": 5,
+        "liderazgo": 3,
+        "extroversion": 5,
+        "cumplimiento": 3
+      },
+      "real": {
+        "creatividad": 1,
+        "organizacion": 5,
+        "liderazgo": 3,
+        "extroversion": 5,
+        "cumplimiento": 3
+      },
+      "estimado": {
+        "creatividad": 1.0290920991929076,
+        "organizacion": 4.985035156116562,
+        "liderazgo": 2.9181999498731934,
+        "extroversion": 4.952875705170247,
+        "cumplimiento": 3.150591001278461
+      }
+    },
+    {
+      "id": "p0006",
+      "nombre": "Persona sintética 006",
+      "declarado": {
+        "creatividad": 4,
+        "organizacion": 2,
+        "liderazgo": 1,
+        "extroversion": 1,
+        "cumplimiento": 1
+      },
+      "real": {
+        "creatividad": 5,
+        "organizacion": 2,
+        "liderazgo": 1,
+        "extroversion": 1,
+        "cumplimiento": 2
+      },
+      "estimado": {
+        "creatividad": 4.863686261828346,
+        "organizacion": 2.142450280604576,
+        "liderazgo": 1.0835372311484261,
+        "extroversion": 1.0593383580087998,
+        "cumplimiento": 2.0454669045593743
+      }
+    },
+    {
+      "id": "p0007",
+      "nombre": "Persona sintética 007",
+      "declarado": {
+        "creatividad": 3,
+        "organizacion": 4,
+        "liderazgo": 3,
+        "extroversion": 2,
+        "cumplimiento": 3
+      },
+      "real": {
+        "creatividad": 3,
+        "organizacion": 4,
+        "liderazgo": 3,
+        "extroversion": 2,
+        "cumplimiento": 3
+      },
+      "estimado": {
+        "creatividad": 3.069032223580275,
+        "organizacion": 3.824644994755198,
+        "liderazgo": 2.954867883746923,
+        "extroversion": 2.071898251861549,
+        "cumplimiento": 2.948160017272775
+      }
+    },
+    {
+      "id": "p0008",
+      "nombre": "Persona sintética 008",
+      "declarado": {
+        "creatividad": 1,
+        "organizacion": 1,
+        "liderazgo": 1,
+        "extroversion": 1,
+        "cumplimiento": 5
+      },
+      "real": {
+        "creatividad": 3,
+        "organizacion": 2,
+        "liderazgo": 3,
+        "extroversion": 1,
+        "cumplimiento": 5
+      },
+      "estimado": {
+        "creatividad": 2.9237807752322023,
+        "organizacion": 1.9134056998186089,
+        "liderazgo": 2.887461132621657,
+        "extroversion": 1.037956011545704,
+        "cumplimiento": 4.9471276756600915
+      }
+    },
+    {
+      "id": "p0009",
+      "nombre": "Persona sintética 009",
+      "declarado": {
+        "creatividad": 3,
+        "organizacion": 5,
+        "liderazgo": 2,
+        "extroversion": 3,
+        "cumplimiento": 1
+      },
+      "real": {
+        "creatividad": 3,
+        "organizacion": 5,
+        "liderazgo": 2,
+        "extroversion": 3,
+        "cumplimiento": 1
+      },
+      "estimado": {
+        "creatividad": 3.1724220496600846,
+        "organizacion": 4.8997038629677965,
+        "liderazgo": 2.167406828665807,
+        "extroversion": 2.9227308549239606,
+        "cumplimiento": 1.035601273419974
+      }
+    },
+    {
+      "id": "p0010",
+      "nombre": "Persona sintética 010",
+      "declarado": {
+        "creatividad": 2,
+        "organizacion": 1,
+        "liderazgo": 3,
+        "extroversion": 4,
+        "cumplimiento": 3
+      },
+      "real": {
+        "creatividad": 2,
+        "organizacion": 1,
+        "liderazgo": 3,
+        "extroversion": 4,
+        "cumplimiento": 3
+      },
+      "estimado": {
+        "creatividad": 2.048627694974175,
+        "organizacion": 1.1404639665391958,
+        "liderazgo": 2.9685824971000354,
+        "extroversion": 3.9560145374791755,
+        "cumplimiento": 3.0124938527882676
+      }
+    },
+    {
+      "id": "p0011",
+      "nombre": "Persona sintética 011",
+      "declarado": {
+        "creatividad": 1,
+        "organizacion": 4,
+        "liderazgo": 5,
+        "extroversion": 4,
+        "cumplimiento": 3
+      },
+      "real": {
+        "creatividad": 1,
+        "organizacion": 2,
+        "liderazgo": 5,
+        "extroversion": 3,
+        "cumplimiento": 2
+      },
+      "estimado": {
+        "creatividad": 1.0310430182706412,
+        "organizacion": 2.152430914433167,
+        "liderazgo": 4.928227011860866,
+        "extroversion": 2.9852905337321927,
+        "cumplimiento": 2.142213994053823
+      }
+    },
+    {
+      "id": "p0012",
+      "nombre": "Persona sintética 012",
+      "declarado": {
+        "creatividad": 2,
+        "organizacion": 5,
+        "liderazgo": 5,
+        "extroversion": 3,
+        "cumplimiento": 5
+      },
+      "real": {
+        "creatividad": 2,
+        "organizacion": 5,
+        "liderazgo": 5,
+        "extroversion": 3,
+        "cumplimiento": 5
+      },
+      "estimado": {
+        "creatividad": 1.9983108756882682,
+        "organizacion": 4.953608674544084,
+        "liderazgo": 4.905248987975569,
+        "extroversion": 3.169268089513544,
+        "cumplimiento": 4.869225765309731
+      }
+    },
+    {
+      "id": "p0013",
+      "nombre": "Persona sintética 013",
+      "declarado": {
+        "creatividad": 4,
+        "organizacion": 5,
+        "liderazgo": 4,
+        "extroversion": 3,
+        "cumplimiento": 2
+      },
+      "real": {
+        "creatividad": 4,
+        "organizacion": 5,
+        "liderazgo": 4,
+        "extroversion": 3,
+        "cumplimiento": 2
+      },
+      "estimado": {
+        "creatividad": 4.146102729467219,
+        "organizacion": 4.990687046833405,
+        "liderazgo": 3.845989375945003,
+        "extroversion": 2.9330771920734775,
+        "cumplimiento": 1.9974212657333743
+      }
+    },
+    {
+      "id": "p0014",
+      "nombre": "Persona sintética 014",
+      "declarado": {
+        "creatividad": 2,
+        "organizacion": 5,
+        "liderazgo": 5,
+        "extroversion": 1,
+        "cumplimiento": 1
+      },
+      "real": {
+        "creatividad": 2,
+        "organizacion": 5,
+        "liderazgo": 4,
+        "extroversion": 1,
+        "cumplimiento": 1
+      },
+      "estimado": {
+        "creatividad": 2.00247530859739,
+        "organizacion": 4.9847297326385025,
+        "liderazgo": 4.207122566250856,
+        "extroversion": 1.01865882781756,
+        "cumplimiento": 1.0242934755849056
+      }
+    },
+    {
+      "id": "p0015",
+      "nombre": "Persona sintética 015",
+      "declarado": {
+        "creatividad": 4,
+        "organizacion": 3,
+        "liderazgo": 1,
+        "extroversion": 3,
+        "cumplimiento": 3
+      },
+      "real": {
+        "creatividad": 4,
+        "organizacion": 5,
+        "liderazgo": 1,
+        "extroversion": 4,
+        "cumplimiento": 4
+      },
+      "estimado": {
+        "creatividad": 4.059119805086141,
+        "organizacion": 4.818022703842791,
+        "liderazgo": 1.0162119796146698,
+        "extroversion": 3.936751373289699,
+        "cumplimiento": 3.8911284541061955
+      }
+    },
+    {
+      "id": "p0016",
+      "nombre": "Persona sintética 016",
+      "declarado": {
+        "creatividad": 4,
+        "organizacion": 1,
+        "liderazgo": 4,
+        "extroversion": 4,
+        "cumplimiento": 2
+      },
+      "real": {
+        "creatividad": 3,
+        "organizacion": 1,
+        "liderazgo": 3,
+        "extroversion": 4,
+        "cumplimiento": 2
+      },
+      "estimado": {
+        "creatividad": 2.9351888044460415,
+        "organizacion": 1.070903674377004,
+        "liderazgo": 2.9941141151102,
+        "extroversion": 4.007610271453399,
+        "cumplimiento": 1.8691668374496224
+      }
+    },
+    {
+      "id": "p0017",
+      "nombre": "Persona sintética 017",
+      "declarado": {
+        "creatividad": 3,
+        "organizacion": 5,
+        "liderazgo": 5,
+        "extroversion": 2,
+        "cumplimiento": 2
+      },
+      "real": {
+        "creatividad": 3,
+        "organizacion": 5,
+        "liderazgo": 5,
+        "extroversion": 2,
+        "cumplimiento": 2
+      },
+      "estimado": {
+        "creatividad": 2.8925519669659208,
+        "organizacion": 4.821041053987586,
+        "liderazgo": 4.911076416692749,
+        "extroversion": 1.9130212467901742,
+        "cumplimiento": 1.8572648718794418
+      }
+    },
+    {
+      "id": "p0018",
+      "nombre": "Persona sintética 018",
+      "declarado": {
+        "creatividad": 5,
+        "organizacion": 3,
+        "liderazgo": 5,
+        "extroversion": 5,
+        "cumplimiento": 3
+      },
+      "real": {
+        "creatividad": 3,
+        "organizacion": 2,
+        "liderazgo": 5,
+        "extroversion": 5,
+        "cumplimiento": 1
+      },
+      "estimado": {
+        "creatividad": 3.009661441938033,
+        "organizacion": 1.9340063904385767,
+        "liderazgo": 4.903781718048879,
+        "extroversion": 4.90000452974,
+        "cumplimiento": 1.1522300178649316
+      }
+    },
+    {
+      "id": "p0019",
+      "nombre": "Persona sintética 019",
+      "declarado": {
+        "creatividad": 2,
+        "organizacion": 1,
+        "liderazgo": 2,
+        "extroversion": 5,
+        "cumplimiento": 1
+      },
+      "real": {
+        "creatividad": 2,
+        "organizacion": 1,
+        "liderazgo": 2,
+        "extroversion": 5,
+        "cumplimiento": 1
+      },
+      "estimado": {
+        "creatividad": 1.973439824547969,
+        "organizacion": 1.0746855252028351,
+        "liderazgo": 1.9817781804948131,
+        "extroversion": 4.93662040113686,
+        "cumplimiento": 1.1280243045000002
+      }
+    },
+    {
+      "id": "p0020",
+      "nombre": "Persona sintética 020",
+      "declarado": {
+        "creatividad": 1,
+        "organizacion": 4,
+        "liderazgo": 1,
+        "extroversion": 5,
+        "cumplimiento": 3
+      },
+      "real": {
+        "creatividad": 1,
+        "organizacion": 4,
+        "liderazgo": 1,
+        "extroversion": 5,
+        "cumplimiento": 2
+      },
+      "estimado": {
+        "creatividad": 1.0485712922040535,
+        "organizacion": 3.860734640855675,
+        "liderazgo": 1.0049749062999997,
+        "extroversion": 4.88166307350685,
+        "cumplimiento": 2.169361508177638
+      }
+    },
+    {
+      "id": "p0021",
+      "nombre": "Persona sintética 021",
+      "declarado": {
+        "creatividad": 3,
+        "organizacion": 3,
+        "liderazgo": 3,
+        "extroversion": 4,
+        "cumplimiento": 1
+      },
+      "real": {
+        "creatividad": 3,
+        "organizacion": 5,
+        "liderazgo": 5,
+        "extroversion": 4,
+        "cumplimiento": 2
+      },
+      "estimado": {
+        "creatividad": 2.9319725555241045,
+        "organizacion": 4.779834407526599,
+        "liderazgo": 4.8711522915,
+        "extroversion": 4.011215503835797,
+        "cumplimiento": 1.987193765166938
+      }
+    },
+    {
+      "id": "p0022",
+      "nombre": "Persona sintética 022",
+      "declarado": {
+        "creatividad": 1,
+        "organizacion": 2,
+        "liderazgo": 2,
+        "extroversion": 1,
+        "cumplimiento": 4
+      },
+      "real": {
+        "creatividad": 1,
+        "organizacion": 2,
+        "liderazgo": 2,
+        "extroversion": 1,
+        "cumplimiento": 3
+      },
+      "estimado": {
+        "creatividad": 1.098523127424727,
+        "organizacion": 2.047469286255555,
+        "liderazgo": 1.9249606466044265,
+        "extroversion": 1.066990541982445,
+        "cumplimiento": 2.9962139160512
+      }
+    },
+    {
+      "id": "p0023",
+      "nombre": "Persona sintética 023",
+      "declarado": {
+        "creatividad": 5,
+        "organizacion": 3,
+        "liderazgo": 1,
+        "extroversion": 1,
+        "cumplimiento": 1
+      },
+      "real": {
+        "creatividad": 5,
+        "organizacion": 2,
+        "liderazgo": 1,
+        "extroversion": 1,
+        "cumplimiento": 1
+      },
+      "estimado": {
+        "creatividad": 4.915167512681046,
+        "organizacion": 2.244961825804495,
+        "liderazgo": 1.173256030707836,
+        "extroversion": 1.0462541682739925,
+        "cumplimiento": 1.0665775751525077
+      }
+    },
+    {
+      "id": "p0024",
+      "nombre": "Persona sintética 024",
+      "declarado": {
+        "creatividad": 3,
+        "organizacion": 1,
+        "liderazgo": 5,
+        "extroversion": 2,
+        "cumplimiento": 3
+      },
+      "real": {
+        "creatividad": 3,
+        "organizacion": 1,
+        "liderazgo": 5,
+        "extroversion": 2,
+        "cumplimiento": 3
+      },
+      "estimado": {
+        "creatividad": 2.872485618266222,
+        "organizacion": 1.0634197379130699,
+        "liderazgo": 4.90975883159599,
+        "extroversion": 1.8982422899097995,
+        "cumplimiento": 3.1064115955780545
+      }
+    }
+  ],
+  "reglas_ocultas": [
+    "Supuesto sintético v1: base 30 + 25 × (0.7 × media principal + 0.3 × media secundaria − 1) / 4.",
+    "Creativo: principal creatividad y secundaria extroversión; técnico: organización y cumplimiento; entrega rápida: cumplimiento y organización.",
+    "Al menos dos miembros con rasgo principal real >= 4: +22 puntos; de lo contrario: −10.",
+    "Al menos un miembro con rasgo secundario real >= 4: +8 puntos; de lo contrario: −6.",
+    "Más de un miembro con liderazgo real >= 4: −14 puntos; en otro caso: +4.",
+    "Ruido uniforme local de score entre −2 y +2; recorte del score a 0–100.",
+    "Feedback por persona y rasgo: real + ruido uniforme entre −0.35 y +0.35, recortado a 1–5."
+  ]
+}

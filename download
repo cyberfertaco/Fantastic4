@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+datos/*.sqlite3*
+datos/*.json
+biblioteca/*.json
+resultados/*.json
+versiones/*.json
+.streamlit/secrets.toml
